@@ -11,5 +11,7 @@ public class GitTest {
         System.out.println("不是特别好");
 
         System.out.println("好吧");
+
+        System.out.println("hello Git");
     }
 }
