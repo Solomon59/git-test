@@ -7,5 +7,7 @@ public class GitTest {
 
 
         System.out.println("你好，Git！");
+
+        System.out.println("不是特别好");
     }
 }
